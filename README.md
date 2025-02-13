@@ -7,9 +7,9 @@
 - [https://dapr.io/](https://dapr.io/)
 
 
-### This example assumes that you have Dapr Cli and docker installed on the local machine and that you are running the default instance of Redis installed on Docker.
+#### This example assumes that you have Dapr Cli and docker installed on the local machine and that you are running the default instance of Redis installed on Docker.
 
-### Before you run the example make sure local redis state store is running by executing:
+#### Before you run the example make sure local redis state store is running by executing:
 ```
 docker ps
 ```
