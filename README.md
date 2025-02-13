@@ -1,4 +1,13 @@
-Before you run the example make sure local redis state store is running by executing:
+# Rust and DAPR
+
+### Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=rust,redis,dapr)](https://skillicons.dev)
+
+## Site Dapr.io
+- [https://dapr.io/](https://dapr.io/)
+
+
+### Before you run the example make sure local redis state store is running by executing:
 ```
 docker ps
 ```
