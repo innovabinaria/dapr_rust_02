@@ -3,8 +3,9 @@
 ### Technologies
 [![My Skills](https://skillicons.dev/icons?i=rust,redis,dapr)](https://skillicons.dev)
 
-## Site Dapr.io
+### Site Dapr.io
 - [https://dapr.io/](https://dapr.io/)
+
 
 ### This example assumes that you have Dapr Cli and docker installed on the local machine and that you are running the default instance of Redis installed on Docker.
 
