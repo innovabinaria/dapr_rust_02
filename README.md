@@ -1,6 +1,6 @@
 # Rust and DAPR
 
-### Tecnologias
+### Technologies
 [![My Skills](https://skillicons.dev/icons?i=rust,redis,dapr)](https://skillicons.dev)
 
 ## Site Dapr.io
